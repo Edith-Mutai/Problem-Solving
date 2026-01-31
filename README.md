@@ -14,8 +14,3 @@ Design a deployment planning system for software updates across a large corporat
 Design a calendar app that stores events for multiple users. the users should be able to add,delete and retrieve events from the calendar
 
 
-|    Group Members     |
-|----------------------|
-|      Edith Mutai     |
-|      Karen Ngugi     |
-|  Lorraine Madonsela  |
